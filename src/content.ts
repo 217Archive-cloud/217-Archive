@@ -1,0 +1,241 @@
+// ═══════════════════════════════════════════════════════════════
+//  2:17 AM — Content File
+//
+//  This is the only file you need to edit to update the website.
+//  Save after any change and the site refreshes automatically.
+//
+//  POEMS:
+//    Each poem has a title and text.
+//    Use a template literal (backtick string) for multi-line poems.
+//
+//  SECTIONS:
+//    Group poems into chapters. Each section has an id, title,
+//    and an array of poems.
+// ═══════════════════════════════════════════════════════════════
+
+// ─── Hero ─────────────────────────────────────────────────────
+export const hero = {
+  title: "2:17",
+  titleAccent: "AM",
+  author: "by A.Q.",
+  intro: "some thoughts only exist after midnight.",
+};
+
+// ─── Featured piece ───────────────────────────────────────────
+// Displayed prominently before the archive sections begin.
+// Set enabled: false to hide it, or change text/poemId any time.
+export const featuredPiece = {
+  enabled: true,
+
+  label: "FEATURED",
+
+  title: "Lost In My Thoughts",
+
+  text: `Lost in my thoughts—
+  they ask me, what are you thinking of?
+
+  I answer, nothing.
+
+  How can I tell them
+  that "nothing" is all I have left?`,
+};
+
+// ─── Sections ─────────────────────────────────────────────────
+export const sections: Section[] = [
+  {
+    id: "unsaid",
+    title: "things i never said out loud",
+    poems: [
+
+      {
+        id: "unsaid-6",
+        title: "The World Turns, But I Stay Still",
+        text: `I was never afraid of silence
+      until you filled it with your voice.
+
+      I never feared being alone
+      until I knew what it meant to be with you.
+
+      Now—
+
+      every second you're away
+      feels like something's missing in me.
+
+      Like a part of my chest is hollow,
+      like breath caught in my throat.
+
+      When you are not near,
+      nothing quite feels real.
+
+      The air moves, but it doesn't breathe.
+
+      The world turns,
+      but I stay still.`,
+        align: "left",
+        style: "verse",
+      },
+    ],
+  },
+
+  {
+    id: "leaving",
+    title: "you left in smaller ways first",
+    poems: [
+      {
+        id: "leaving-2",
+        title: "The World Turned Cold",
+        text: `I was abandoned to this selfish world,
+      You vanished without a trace—no warnings.
+
+      Now, no one sees me,
+      no one tries to understand.
+
+      Your presence was a light in my shadows,
+      A voice that called out the parts of me
+      hidden from the world.
+
+      With you, I wasn’t invisible—
+      You saw me when others turned away,
+      Loved me when I doubted my own worth.
+
+      That's why I loved you,
+      You made me feel real,
+      like I belonged.
+
+      Now, all that’s left is silence,
+      An empty space where your warmth once held me.
+
+      You left—
+      my sky folded into itself—
+      and the world turned cold.
+
+      I wonder—
+      will I ever find such light again?`,
+        align: "left",
+        style: "verse",
+      },
+      
+    ],
+  },
+
+  {
+    id: "becoming",
+    title: "i became someone i don't recognize",
+    poems: [
+      {
+        id: "becoming-1",
+        title: "i buried myself gradually",
+        text: `I wasn’t always like this—
+      Or was I?
+
+      Was I born this dim—
+      without a hue?
+
+      Or did my colors fade—
+      By living?
+
+      Was I always solitary—
+      Or did I lose my way—
+      And all the faces vanished?
+
+      Was I hopeless from the start—
+      Or did the years conspire—
+      To hollow me?
+
+      I stain my hair with brightness—
+      To mask the life that pales inside.
+
+      I wear a smile in daylight—
+      While inside—
+      I am crumbling to dust.
+
+      Was it always—me?
+
+      Or has Time—
+      Been crueler than I knew?`,
+        align: "left",
+        style: "verse",
+      },
+      
+    ],
+  },
+
+  {
+    id: "gentle",
+    title: "the world was never gentle with girls like me",
+    poems: [
+      {
+        id: "gentle-1",
+        title: "wild, fierce, free",
+        text: `Why must I beg for love to see
+      The soul that burns, complete, in me?
+
+      Why must I bend to brittle norms,
+      A fragile frame in endless storms?
+
+      Why do you hide me in the night,
+      Ashamed to hold me in the light?
+
+      Your voice, a cage, your eyes, a chain—
+      But I won’t wear your mask of shame.
+
+      You tell me "change," with every breath,
+      Yet shrink beside my living depth.
+
+      You cast your doubts like shadows wide,
+      But know I stand, with nothing to hide.
+
+      No longer bound by all you seek,
+      No need to fit the mold you keep.
+
+      I am whole—fierce, wild, and free—
+      And I shall live as only me.`,
+        align: "left",
+        style: "verse",
+      },
+      
+    ],
+  },
+];
+
+// ─── About ────────────────────────────────────────────────────
+export const about = {
+  paragraphs: [
+    "A home for unfinished conversations, lingering memories, and thoughts that arrive after midnight.",
+
+    "These poems were written across different versions of the same life.",
+
+    "Some stayed as fragments.\nSome became wounds.\nSome became poems.",
+
+    "Some of these poems were written years apart. They all arrived at the same place.",
+
+    "There are no answers here.\nOnly memories, questions, and the occasional attempt to make sense of them.",
+
+    "For the ones who stayed too long in their thoughts."
+  ],
+
+  closing: "2:17 AM is not a time.\nIt is a place.",
+};
+
+// ─── Footer ───────────────────────────────────────────────────
+export const footer = {
+  title: "Find me at 2:17",
+  tagline: "or don't. I'll still be here.",
+  colophon: "[ a closing line \u2014 a time, a place, a feeling ]",
+  links: [
+  
+  ],
+};
+
+// ─── Types ────────────────────────────────────────────────────
+export interface Poem {
+  id: string;
+  title: string;
+  text: string;
+}
+
+export interface Section {
+  id: string;
+  title: string;
+  poems: Poem[];
+}
