@@ -48,7 +48,7 @@ export const sections: Section[] = [
     poems: [
 
       {
-        id: "unsaid-6",
+        id: "unsaid-1",
         title: "The World Turns, But I Stay Still",
         text: `I was never afraid of silence
       until you filled it with your voice.
@@ -74,6 +74,60 @@ export const sections: Section[] = [
         align: "left",
         style: "verse",
       },
+      {
+id: "unsaid-2",
+title: "Should I Stop Writing About You?",
+
+text: `Should I stop writing about you?
+
+Am I exposing too much of my heart?
+
+Even though I am, this love is a precarious dance—
+One step forward, two steps back—
+Fearing it will frighten you.
+
+But how can I hide what’s already carved into my soul?
+
+You linger in my thoughts,
+Tracing every moment of my day.
+
+I think of you—
+I dream of you—
+
+And with shaking hands, I confess—
+
+I’m in love with you.
+
+Is it reckless?
+Too much, too soon?
+
+I’m lost in this feverish affair,
+My heart a storm refusing to be calmed.
+
+Yet I know,
+In your arms,
+It might finally surrender.
+
+I can’t believe I’m awake at night,
+Penning these verses,
+Promising I wouldn’t fall—
+Yet sinking deeper still.
+
+The spell you’ve woven holds me tight.
+
+And now I find myself captive—
+
+Unable,
+Unwilling,
+To break free.
+
+Not even for a single breath.
+
+Not even for a heartbeat.`,
+align: "left",
+style: "verse",
+},
+
     ],
   },
 
