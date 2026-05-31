@@ -168,7 +168,68 @@ style: "verse",
         align: "left",
         style: "verse",
       },
-      
+      {
+id: "leaving-3",
+title: "A Hand, Not a Heart",
+
+text: `I loved her like the sky loves stars—
+
+Too far to ever touch—
+
+She smiled, but never quite the way
+I needed her to.
+
+She let me near, but not too close,
+
+A hand, but not a heart—
+
+Her world was warm, but not for me.
+
+I played a patient part.
+
+I gave her all the light I had,
+
+She took it like the day—
+
+But kept her own sun hidden deep
+
+And turned her face away.
+
+She wasn't cruel.
+
+She wasn't kind.
+
+She simply wasn't mine.
+
+And loving her began to feel
+
+Like crossing some old line.
+
+So I will go,
+
+Though soft and slow—
+
+Not angry,
+
+Not untrue—
+
+Just quiet as a falling leaf
+
+Who knows what it must do.
+
+I'll keep her in a gentler place—
+
+Where longing cannot grow—
+
+A girl I loved,
+
+Not quite enough,
+
+To ever make her know.`,
+align: "left",
+style: "verse",
+},
+
     ],
   },
 
@@ -210,7 +271,101 @@ style: "verse",
         align: "left",
         style: "verse",
       },
-      
+      {
+id: "becoming-2",
+title: "The Ghost Who Breathes in Daylight",
+
+text: `Who am I?
+
+I don't relate to anyone.
+
+The faces pass—
+
+but none quite turn.
+
+What do I feel?
+
+A silence, deep—
+
+too wide for words,
+
+too strange for comfort.
+
+Whom am I becoming?
+
+I cannot tell—
+
+not like the others—
+
+not like the rest.
+
+A riddle—
+
+bound in breath and bone—
+
+A shape that doesn't fit the mold.
+
+Am I a flaw?
+
+A ripple in the cloth—
+
+the thread that wouldn't lie flat?
+
+A question no one's asking?
+
+Am I deviant—
+
+Or just divine—
+
+Too strange for streets the world walks down?
+
+Where do I place this wilderness?
+
+These feelings—
+
+feral—
+
+flickering—
+
+That beg to bloom, but find no Spring?
+
+Where do I go—
+
+with all these hours
+
+filled with thoughts
+
+no one echoes?
+
+Who would understand?
+
+If even stars seem foreign—
+
+And words fall mute in human air?
+
+Who will I tell—
+
+if no one listens
+
+in the way I need?
+
+Must I remain—
+
+Unseen—
+
+A ghost who breathes in daylight?
+
+Is this it?
+
+To live unseen—
+
+and make a home
+
+inside that shadow?`,
+align: "left",
+style: "verse",
+},
+
     ],
   },
 
@@ -247,7 +402,47 @@ style: "verse",
         align: "left",
         style: "verse",
       },
-      
+      {
+id: "gentle-2",
+title: "In Love With Open Skies",
+
+text: `They clipped my wings—and kindly smiled,
+
+And said,
+
+"One day, Heaven waits."
+
+But I, in love with open skies,
+
+Felt strangled by their gates.
+
+The bars were built of "should have been,"
+
+The cell of "never dare."
+
+The air itself a silent judge—
+
+I gasped for breath in there.
+
+The stars would call me every night
+
+With quiet silver speech,
+
+But gravity of all their norms
+
+Would pull me from their reach.
+
+When will I scatter like a bird,
+
+Or flutter from this cage?
+
+Just let me steal one breath of free
+
+Before I reach the grave.`,
+align: "left",
+style: "verse",
+},
+
     ],
   },
 ];
