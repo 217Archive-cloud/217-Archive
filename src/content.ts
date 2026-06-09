@@ -173,7 +173,7 @@ Forever and ever.`,
     title: "you left in smaller ways first",
     poems: [
       {
-        id: "leaving-2",
+        id: "leaving-1",
         title: "The World Turned Cold",
         text: `I was abandoned to this selfish world,
       You vanished without a trace—no warnings.
@@ -206,7 +206,7 @@ Forever and ever.`,
         style: "verse",
       },
      {
-id: "leaving-3",
+id: "leaving-2",
 title: "A Hand, Not a Heart",
 
 text: `I loved her like the sky loves stars—
@@ -254,46 +254,34 @@ style: "verse",
 },
 
 {
-id: "leaving-4",
+id: "leaving-3",
 title: "In Pieces",
 
 text: `It's strange,
-
 how someone can look at you
-
 like they almost mean it—
 
 and that "almost"
-
 can break you
-
 just the same.
 
 I'll let her go.
-
 Not in one grand goodbye—
-
 but in pieces.
 
 In rewinding old songs
-
 and not reaching for my phone.
 
 In forgetting
-
 what her laugh sounded like
-
 at the end of a long day.
 
 And maybe one day,
-
 I'll remember her
-
 without shaking.`,
 align: "left",
 style: "verse",
 },
-
     ],
   },
 
