@@ -166,8 +166,7 @@ Forever and ever.`,
   align: "left",
   style: "verse",
 },
-    ],
-  },
+  ]
 
   {
     id: "leaving",
