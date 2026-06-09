@@ -205,67 +205,54 @@ Forever and ever.`,
         align: "left",
         style: "verse",
       },
-      {
+     {
 id: "leaving-3",
 title: "A Hand, Not a Heart",
 
 text: `I loved her like the sky loves stars—
-
 Too far to ever touch—
 
 She smiled, but never quite the way
 I needed her to.
 
 She let me near, but not too close,
-
 A hand, but not a heart—
 
 Her world was warm, but not for me.
-
 I played a patient part.
 
 I gave her all the light I had,
-
 She took it like the day—
 
 But kept her own sun hidden deep
-
 And turned her face away.
 
 She wasn't cruel.
-
 She wasn't kind.
-
 She simply wasn't mine.
 
 And loving her began to feel
-
 Like crossing some old line.
 
 So I will go,
-
 Though soft and slow—
 
 Not angry,
-
 Not untrue—
 
 Just quiet as a falling leaf
-
 Who knows what it must do.
 
 I'll keep her in a gentler place—
-
 Where longing cannot grow—
 
 A girl I loved,
-
 Not quite enough,
-
 To ever make her know.`,
 align: "left",
 style: "verse",
 },
+
 {
 id: "leaving-4",
 title: "In Pieces",
