@@ -287,6 +287,46 @@ To ever make her know.`,
 align: "left",
 style: "verse",
 },
+{
+id: "leaving-4",
+title: "In Pieces",
+
+text: `It's strange,
+
+how someone can look at you
+
+like they almost mean it—
+
+and that "almost"
+
+can break you
+
+just the same.
+
+I'll let her go.
+
+Not in one grand goodbye—
+
+but in pieces.
+
+In rewinding old songs
+
+and not reaching for my phone.
+
+In forgetting
+
+what her laugh sounded like
+
+at the end of a long day.
+
+And maybe one day,
+
+I'll remember her
+
+without shaking.`,
+align: "left",
+style: "verse",
+},
 
     ],
   },
@@ -423,6 +463,51 @@ inside that shadow?`,
 align: "left",
 style: "verse",
 },
+      {
+id: "becoming-3",
+title: "A Quiet, Unseen Ache",
+
+text: `Why do I feel so empty still—
+
+With all this love around?
+
+A thousand voices in the air,
+
+Yet mine makes not a sound.
+
+They smile—
+
+and I pretend to smile—
+
+But something aches inside.
+
+A loneliness that lingers on,
+
+A shadow I can't hide.
+
+Will this be how my story ends—
+
+A quiet, unseen ache?
+
+Or will the hunger in my heart
+
+Refuse my soul to break?
+
+Perhaps—
+
+the longing keeps me here—
+
+When nothing else can stay.
+
+And craving love—
+
+or being known—
+
+Might steal my death away.`,
+align: "left",
+style: "verse",
+},
+
 
     ],
   },
@@ -497,6 +582,80 @@ Or flutter from this cage?
 Just let me steal one breath of free
 
 Before I reach the grave.`,
+align: "left",
+style: "verse",
+},
+{
+id: "gentle-3",
+title: "I Hold Flame",
+
+text: `They ask me—
+
+What do you crave, what do you need?
+
+I say—not much.
+
+Only to be wild.
+
+To be free.
+
+To live without asking,
+
+To fly without fear,
+
+To wander where the path runs out,
+
+To feel it all—
+
+The wind,
+
+The wonder,
+
+The ache.
+
+Is it too much to ask?
+
+To claim the independence
+
+That breathes in my bones?
+
+To take what was never truly given—
+
+Only mine,
+
+And yet withheld?
+
+They hold the key,
+
+But I hold flame.
+
+And someday—
+
+Someday,
+
+I'll burn the sky open.
+
+I'll fly—
+
+No master,
+
+No tethered path.
+
+I'll rise like a hawk at first light—
+
+Cut through the hush with wings in flight.
+
+Far from their hands,
+
+Their chains,
+
+Their frown.
+
+Alive.
+
+Unbroken.
+
+And never come down.`,
 align: "left",
 style: "verse",
 },
