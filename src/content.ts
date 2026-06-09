@@ -166,7 +166,6 @@ Forever and ever.`,
   align: "left",
   style: "verse",
 },
-
     ],
   },
 
