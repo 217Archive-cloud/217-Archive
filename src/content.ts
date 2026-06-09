@@ -127,6 +127,46 @@ Not even for a heartbeat.`,
 align: "left",
 style: "verse",
 },
+      {
+id: "unsaid-3",
+title: "In Love With Open Skies",
+
+text: `They clipped my wings—and kindly smiled,
+
+And said,
+
+"One day, Heaven waits."
+
+But I, in love with open skies,
+
+Felt strangled by their gates.
+
+The bars were built of "should have been,"
+
+The cell of "never dare."
+
+The air itself a silent judge—
+
+I gasped for breath in there.
+
+The stars would call me every night
+
+With quiet silver speech,
+
+But gravity of all their norms
+
+Would pull me from their reach.
+
+When will I scatter like a bird,
+
+Or flutter from this cage?
+
+Just let me steal one breath of free
+
+Before I reach the grave.`,
+align: "left",
+style: "verse",
+},
 
     ],
   },
