@@ -165,8 +165,8 @@ And be one—
 Forever and ever.`,
   align: "left",
   style: "verse",
-    ],
-  },
+}
+]
   {
     id: "leaving",
     title: "you left in smaller ways first",
