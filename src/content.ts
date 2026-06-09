@@ -162,9 +162,7 @@ All this love I carry.
 Let our souls meet—
 Mend—
 And be one—
-Forever and ever.`
-
-Forever and ever.`,
+Forever and ever. `,
 align: "left",
 style: "verse",
 },
