@@ -127,7 +127,7 @@ Not even for a heartbeat.`,
 align: "left",
 style: "verse",
 },
-     {
+{
   id: "unsaid-3",
   title: "Words Fall Short",
   content: `I call myself a poet—
@@ -167,6 +167,7 @@ Forever and ever.`,
   style: "verse",
 },
   ]
+},
 
   {
     id: "leaving",
