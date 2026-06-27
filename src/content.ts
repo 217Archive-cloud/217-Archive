@@ -328,91 +328,59 @@ id: "becoming-2",
 title: "The Ghost Who Breathes in Daylight",
 
 text: `Who am I?
-
 I don't relate to anyone.
-
 The faces pass—
-
 but none quite turn.
 
 What do I feel?
-
 A silence, deep—
-
 too wide for words,
-
 too strange for comfort.
 
 Whom am I becoming?
-
 I cannot tell—
-
 not like the others—
-
 not like the rest.
 
 A riddle—
-
 bound in breath and bone—
-
 A shape that doesn't fit the mold.
 
 Am I a flaw?
-
 A ripple in the cloth—
-
 the thread that wouldn't lie flat?
-
 A question no one's asking?
 
 Am I deviant—
-
 Or just divine—
-
 Too strange for streets the world walks down?
 
 Where do I place this wilderness?
-
 These feelings—
-
 feral—
-
 flickering—
-
 That beg to bloom, but find no Spring?
 
 Where do I go—
-
 with all these hours
-
 filled with thoughts
-
 no one echoes?
 
 Who would understand?
-
 If even stars seem foreign—
-
 And words fall mute in human air?
 
 Who will I tell—
-
 if no one listens
-
 in the way I need?
 
 Must I remain—
-
 Unseen—
-
 A ghost who breathes in daylight?
 
 Is this it?
-
 To live unseen—
-
 and make a home
-
 inside that shadow?`,
 align: "left",
 style: "verse",
@@ -422,41 +390,26 @@ id: "becoming-3",
 title: "A Quiet, Unseen Ache",
 
 text: `Why do I feel so empty still—
-
 With all this love around?
-
 A thousand voices in the air,
-
 Yet mine makes not a sound.
 
 They smile—
-
 and I pretend to smile—
-
 But something aches inside.
-
 A loneliness that lingers on,
-
 A shadow I can't hide.
 
 Will this be how my story ends—
-
 A quiet, unseen ache?
-
 Or will the hunger in my heart
-
 Refuse my soul to break?
 
 Perhaps—
-
 the longing keeps me here—
-
 When nothing else can stay.
-
 And craving love—
-
 or being known—
-
 Might steal my death away.`,
 align: "left",
 style: "verse",
@@ -504,37 +457,25 @@ id: "gentle-2",
 title: "In Love With Open Skies",
 
 text: `They clipped my wings—and kindly smiled,
-
 And said,
-
 "One day, Heaven waits."
-
 But I, in love with open skies,
-
 Felt strangled by their gates.
 
 The bars were built of "should have been,"
-
 The cell of "never dare."
 
 The air itself a silent judge—
-
 I gasped for breath in there.
 
 The stars would call me every night
-
 With quiet silver speech,
-
 But gravity of all their norms
-
 Would pull me from their reach.
 
 When will I scatter like a bird,
-
 Or flutter from this cage?
-
 Just let me steal one breath of free
-
 Before I reach the grave.`,
 align: "left",
 style: "verse",
@@ -544,71 +485,46 @@ id: "gentle-3",
 title: "I Hold Flame",
 
 text: `They ask me—
-
 What do you crave, what do you need?
-
 I say—not much.
-
 Only to be wild.
-
 To be free.
 
 To live without asking,
-
 To fly without fear,
-
 To wander where the path runs out,
-
 To feel it all—
 
 The wind,
-
 The wonder,
-
 The ache.
 
 Is it too much to ask?
-
 To claim the independence
-
 That breathes in my bones?
 
 To take what was never truly given—
-
 Only mine,
-
 And yet withheld?
 
 They hold the key,
-
 But I hold flame.
-
 And someday—
 
 Someday,
-
 I'll burn the sky open.
-
 I'll fly—
-
 No master,
-
 No tethered path.
 
 I'll rise like a hawk at first light—
-
 Cut through the hush with wings in flight.
 
 Far from their hands,
-
 Their chains,
-
 Their frown.
-
 Alive.
-
 Unbroken.
-
 And never come down.`,
 align: "left",
 style: "verse",
