@@ -282,6 +282,48 @@ without shaking.`,
 align: "left",
 style: "verse",
 },
+      ```ts
+{
+id: "leaving-5",
+title: "Ghost Town",
+
+text: `A ghost town in my head—
+our favorite place,
+empty—
+saved for you and me.
+
+We wander through our favorite spots,
+dance to our favorite songs,
+watch the sunset sink
+into the edge of the world.
+
+We run through quiet streets,
+with no one around to pull us back.
+
+We stargaze—
+yet somehow,
+I end up looking into your eyes all night.
+
+And every night,
+I find my way back
+to this ghost town.
+
+I think the heart breaks strangely—
+still reaching for doors
+it knows no longer open.
+
+Back to those moments
+we once lived inside—
+to that small, forgotten world
+that belonged only to us.
+
+Ghost Town.
+Real Us.`,
+align: "left",
+style: "verse",
+},
+```
+
     ],
   },
 
