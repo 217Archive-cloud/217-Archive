@@ -324,7 +324,7 @@ style: "verse",
 },
 
 {
-id: "leaving-6",
+id: "leaving-5",
 title: "Dream",
 
 text: `It all feels like a dream.
@@ -350,9 +350,7 @@ like mine anymore.
 
 The streets are the same.
 The sky still opens every morning.
-
 Only you are missing.
-
 And somehow,
 that is enough
 to change everything.
@@ -362,7 +360,6 @@ looking for the person
 I used to be with you.
 
 I remember her.
-
 I reach for her,
 but I can't find her
 within me.
