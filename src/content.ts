@@ -517,7 +517,53 @@ Might steal my death away.`,
 align: "left",
 style: "verse",
 },
+{
+id: "becoming-3",
+title: "Stillness",
 
+text: `I am always on the move—
+From thought to thought,
+One life into another—
+As if a pause
+might stop my breath.
+
+I hurry—
+Not from time,
+But from the feeling
+that stillness
+would erase me.
+
+I don't know
+where one is meant to rest—
+Nor where this road should end.
+Only,
+that I must go on.
+
+My mind insists—
+"If you sleep,
+you won't wake—"
+And I have no proof
+to argue back.
+
+So I run—
+Through streets,
+through shadows—
+
+Afraid to be still.
+Afraid to know
+what a pause
+might do to me.
+
+If stopping
+is a kind of death—
+Or something worse.
+
+But I—
+am far too scared
+to find out.`,
+align: "left",
+style: "verse",
+},
 
     ],
   },
