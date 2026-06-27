@@ -282,7 +282,7 @@ without shaking.`,
 align: "left",
 style: "verse",
 },
-      ```ts
+
 {
 id: "leaving-5",
 title: "Ghost Town",
@@ -322,8 +322,7 @@ Real Us.`,
 align: "left",
 style: "verse",
 },
-```
-
+      
     ],
   },
 
