@@ -284,7 +284,7 @@ style: "verse",
 },
 
 {
-id: "leaving-5",
+id: "leaving-4",
 title: "Ghost Town",
 
 text: `A ghost town in my head—
@@ -322,7 +322,72 @@ Real Us.`,
 align: "left",
 style: "verse",
 },
-      
+
+{
+id: "leaving-6",
+title: "Dream",
+
+text: `It all feels like a dream.
+
+Sometimes I stop
+and ask myself—
+did any of it really happen?
+
+Were you ever here,
+or did I make you
+out of all the things
+I wished someone would be?
+
+But then I remember your hand.
+I remember how easily
+mine disappeared inside it.
+
+No dream remembers
+that much warmth.
+
+Life doesn't feel
+like mine anymore.
+
+The streets are the same.
+The sky still opens every morning.
+
+Only you are missing.
+
+And somehow,
+that is enough
+to change everything.
+
+Sometimes I catch myself
+looking for the person
+I used to be with you.
+
+I remember her.
+
+I reach for her,
+but I can't find her
+within me.
+
+I keep looking
+for the life I had with you,
+the way someone returns
+to a house
+that is no longer there.
+
+I stand where the door used to be.
+I still wait
+for it to open.
+
+Tell me—
+is this the dream?
+
+Or is the dream
+the only place
+where I can still
+come home to you?`,
+align: "left",
+style: "verse",
+}
+
     ],
   },
 
